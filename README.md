@@ -13,7 +13,9 @@
 * Firebase (authentication, firestore, cloud funtions, hosting)
 
 ### App Overview
+* Routes
 ![App Config](appRoute.png)
+* Tech Stack
 ![Stack](appStack.png)
 
 
